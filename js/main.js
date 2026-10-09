@@ -65,8 +65,9 @@ scrollTopBtn.addEventListener('click', () => {
 const typingEl = document.getElementById('typing-text');
 const phrases = [
   'TECH LEAD',
-  'AI-DRIVEN SOFTWARE ENGINEERING',
-  'DATA ENGINEERING & REGULATORY TECHNOLOGY'
+  'SOFTWARE ENGINEERING & ARCHITECTURE',
+  'DATA ENGINEERING & REGULATORY TECHNOLOGY',
+  'AI-ASSISTED ENGINEERING'
 ];
 let phraseIndex = 0, charIndex = 0, isDeleting = false;
 
